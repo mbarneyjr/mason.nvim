@@ -33,6 +33,7 @@ return {
   buildifier = "mason-registry.index.buildifier",
   cbfmt = "mason-registry.index.cbfmt",
   ["cfn-lint"] = "mason-registry.index.cfn-lint",
+  ["cfn-lsp-extra"] = "mason-registry.index.cfn-lsp-extra",
   ["chrome-debug-adapter"] = "mason-registry.index.chrome-debug-adapter",
   ["clang-format"] = "mason-registry.index.clang-format",
   clangd = "mason-registry.index.clangd",

@@ -138,7 +138,7 @@ return {
   vue = { "prettier", "prettierd", "rustywind", "vetur-vls", "vue-language-server" },
   wgsl = { "wgsl-analyzer" },
   xml = { "lemminx", "xmlformatter" },
-  yaml = { "actionlint", "cfn-lint", "prettier", "prettierd", "spectral-language-server", "yaml-language-server", "yamlfmt", "yamllint" },
+  yaml = { "actionlint", "cfn-lint", "cfn-lsp-extra", "prettier", "prettierd", "spectral-language-server", "yaml-language-server", "yamlfmt", "yamllint" },
   yara = { "yls-yara" },
   zig = { "zls" },
   zsh = { "beautysh" }
