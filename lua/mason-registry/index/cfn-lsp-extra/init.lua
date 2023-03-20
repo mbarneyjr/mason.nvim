@@ -1,6 +1,5 @@
 local Pkg = require "mason-core.package"
-local npm = require "mason-core.managers.npm"
-local path = require "mason-core.path"
+local pip3 = require "mason-core.managers.pip3"
 
 return Pkg.new {
     name = "cfn-lsp-extra",
